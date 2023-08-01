@@ -1,6 +1,10 @@
 # Image-segmentation-pixel-separation
 An image segmentation application that separates different objects or regions within an image by performing pixel-level separation. The application provides a user-friendly interface to input an image, apply segmentation algorithms, and visualize the segmented regions.
 
+
+![Screenshot2](https://github.com/yesiamrajeev/Image-segmentation-pixel-separation/assets/125568812/52b9b5bf-8cfb-4eac-97c7-4de76b406329)
+
+
 # Features
 Load an input image for segmentation.
 Apply various segmentation algorithms, such as thresholding, region growing, or graph cuts.
