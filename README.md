@@ -33,5 +33,6 @@ Create a new branch for your feature or bug fix.
 Make your changes and commit them with descriptive messages.
 Push your branch to your forked repository.
 Open a pull request with a detailed explanation of your changes.
+
 # License
 This project is licensed under the MIT License. See the LICENSE file for more details.
