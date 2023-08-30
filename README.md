@@ -1,4 +1,5 @@
 # Image-segmentation-pixel-separation
+
 An image segmentation application that separates different objects or regions within an image by performing pixel-level separation. The application provides a user-friendly interface to input an image, apply segmentation algorithms, and visualize the segmented regions.
 
 
